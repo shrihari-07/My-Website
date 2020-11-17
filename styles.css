@@ -106,6 +106,7 @@ a:hover{
   border-radius: 100%;
   float: left;
   margin-right: 30px;
+  background-image: url("book.JPG");
 }
 .python{
   width: 20%;
